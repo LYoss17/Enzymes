@@ -1,7 +1,8 @@
 # Enzymes
 This is the perfect place to learn about generalities of enzymes, I offer you a general view of a wide catalog of enzymes important in biological-molecular processes.
-![enzyme](/assets/images/enzyme.jpg)
+![enzyme, enzyme and substrate](/assets/images/enzyme.jpg)
 *Image taken from: REDBUBBLE*
+
 #### **ATPases**
 Hydrolyze ATP. Many proteins with a wide range of roles have an energy-harnessing ATPase activity as part of their function; for example, motor proteins such as myosin and membrane transport proteins such as the sodium–potassium pump.
 
