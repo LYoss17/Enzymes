@@ -1,9 +1,11 @@
 # Enzymes
 This is the perfect place to learn about generalities of enzymes, I offer you a general view of a wide catalog of enzymes important in biological-molecular processes.
 
-<div style="text-align: center;">
+<p align="center">
+  <
   <img src="https://i.postimg.cc/sxsCSBQx/enzyme.jpg" alt="enzyme and substrate" width="600"/>
-</div>
+  </
+</p>
 
 *Image taken from: REDBUBBLE*
 
