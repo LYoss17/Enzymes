@@ -2,8 +2,7 @@
 This is the perfect place to learn about generalities of enzymes, I offer you a general view of a wide catalog of enzymes important in biological-molecular processes.
 
 [![enzyme.jpg](https://i.postimg.cc/sxsCSBQx/enzyme.jpg)](https://postimg.cc/cg9zGLcG)
-<img src="enzyme.jpg" alt="Enzyme and substrate" width="300"/>
-
+<img src="https://postimg.cc/cg9zGLcG" alt="enzyme and substrate" width="400"/>
 *Image taken from: REDBUBBLE*
 
 #### **ATPases**
