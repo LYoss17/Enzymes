@@ -1,6 +1,6 @@
 # Enzymes
 This is the perfect place to learn about generalities of enzymes, I offer you a general view of a wide catalog of enzymes important in biological-molecular processes.
-![enzyme, enzyme and substrate](/assets/images/enzyme.jpg)
+![enzyme, enzyme and substrate](images/enzyme.jpg)
 *Image taken from: REDBUBBLE*
 
 #### **ATPases**
