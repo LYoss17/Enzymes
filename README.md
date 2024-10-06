@@ -15,7 +15,7 @@ General term for enzymes that catalyze a hydrolytic cleavage reaction; nucleases
 #### **Isomerases**
 Catalyze the rearrangement of bonds within a single molecule.
 
-####**Kinases**
+#### **Kinases**
 Catalyze the addition of phosphate groups to molecules. Protein kinases are an important group of kinases that attach phosphate groups to proteins.
 
 #### **Ligases**
