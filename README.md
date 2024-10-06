@@ -3,10 +3,10 @@ This is the perfect place to learn about generalities of enzymes, I offer you a 
 
 <p align="center">
   <img src="https://i.postimg.cc/sxsCSBQx/enzyme.jpg" alt="enzyme and substrate" width="600"/> 
-  
-  *Image taken from: REDBUBBLE*
 </p>
-
+<p align="center">
+<*Image taken from: REDBUBBLE*
+</p>
 #### **ATPases**
 Hydrolyze ATP. Many proteins with a wide range of roles have an energy-harnessing ATPase activity as part of their function; for example, motor proteins such as myosin and membrane transport proteins such as the sodium–potassium pump.
 
