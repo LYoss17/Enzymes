@@ -57,3 +57,8 @@ It converts fibrinogen to fibrin by cutting its peptide bonds, leading to the fo
 
 #### **Lysozyme**
 It catalyzes the breakdown of glycosidic bonds between the sugars N-acetylmuramic acid and N-acetylglucosamine, weakening the bacterial cell wall and causing lysis of the bacteria.
+
+__________________________________________________________________________________________________________________________________________
+
+###### **References**
+Alberts, B. et al. (2016). *Biología Molecular de LA CÉLULA* (Pardina, E. et al., Trad.; 6a ed.). Garland Science. (Original work published 2014)
